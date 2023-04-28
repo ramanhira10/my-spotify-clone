@@ -1,0 +1,3 @@
+make it responsive
+
+set the fonts, colors etc
